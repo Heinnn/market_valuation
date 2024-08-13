@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+#url = "http://${JITTA_PYPI_USERNAME}:${JITTA_PYPI_PASSWORD}@${JITTA_PYPI_SERVER}/simple"
+url = "http://intelteam:iQZJpzGpUxSrsyEVcMfnscDgZIzaAbPGNOBmpCAStUjKsGGa909317480@192.168.171.6:8080/simple"
+name = "jitta_intel"
+verify_ssl = false
+
+[packages]
+pandas = "*"
+numpy = "*"
+slack_sdk = "*"
+tqdm = "*"
+pyyaml = "*"
+arrow = "*"
+ipykernel = "*"
+scipy = "*"
+sympy = "*"
+google-cloud-storage = "*"
+simfin = "*"
+seaborn = "*"
+sqlalchemy = "*"
+gspread = "*"
+oauth2client = "*"
+retrying = "*"
+pymysql = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.9"

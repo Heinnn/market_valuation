@@ -1,0 +1,805 @@
+{
+  "US": [
+    {
+      "jitta_stock_id": 7496,
+      "id": "NASDAQ:SHV",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572053,
+      "id": "NYSE:AGG",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572054,
+      "id": "NYSE:LQD",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572055,
+      "id": "NYSE:VEA",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572056,
+      "id": "NYSE:VTI",
+      "type": "GLOBAL",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572057,
+      "id": "NYSE:VWO",
+      "type": "GLOBAL",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 5464,
+      "id": "NASDAQ:MCHI",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isMarketTheme": true
+    },
+    {
+      "jitta_stock_id": 2572063,
+      "id": "NYSE:IVV",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "process": false,
+      "isMarketTheme": true
+    },
+    {
+      "jitta_stock_id": 2572064,
+      "id": "NYSE:IXN",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572065,
+      "id": "NYSE:IXJ",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572066,
+      "id": "NYSE:ONLN",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572067,
+      "id": "NYSE:IRBO",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 497280,
+      "id": "NASDAQ:WCLD",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 851607,
+      "id": "NASDAQ:HERO",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 3695,
+      "id": "NASDAQ:FINX",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572068,
+      "id": "NASDAQ:SCHX",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isMarketTheme": true
+    },
+    {
+      "jitta_stock_id": 8893,
+      "id": "NASDAQ:XT",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572069,
+      "id": "NYSE:EPI",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isMarketTheme": true
+    },
+    {
+      "jitta_stock_id": 2573064,
+      "id": "NYSE:KWEB",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 1263,
+      "id": "NASDAQ:AIA",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2933,
+      "id": "NASDAQ:DAX",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 4602,
+      "id": "NASDAQ:IEUS",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 4626,
+      "id": "NASDAQ:IGF",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 5719,
+      "id": "NASDAQ:SDG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573791,
+      "id": "NYSE:VO",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2572133,
+      "id": "NYSE:ASEA",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572181,
+      "id": "NYSE:BKF",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572286,
+      "id": "NYSE:CQQQ",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572350,
+      "id": "NYSE:DGS",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2572510,
+      "id": "NYSE:EWH",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572537,
+      "id": "NYSE:EWY",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572653,
+      "id": "NYSE:FSTA",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572716,
+      "id": "NYSE:GLDM",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572891,
+      "id": "NYSE:ILF",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572918,
+      "id": "NYSE:IPAC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572959,
+      "id": "NYSE:IXG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573081,
+      "id": "NYSE:LGLV",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573446,
+      "id": "NYSE:SCHC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2573464,
+      "id": "NYSE:SCJ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2573756,
+      "id": "NYSE:VB",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2573762,
+      "id": "NYSE:VDE",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573764,
+      "id": "NYSE:VEGI",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573768,
+      "id": "NYSE:VFH",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573769,
+      "id": "NYSE:VGK",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573807,
+      "id": "NYSE:VT",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2573420,
+      "id": "NYSE:RXI",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572468,
+      "id": "NYSE:EPP",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572602,
+      "id": "NYSE:FLJP",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573870,
+      "id": "NYSE:XME",
+      "type": "CUSTOM",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573125,
+      "id": "NYSE:MJ",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2577684,
+      "id": "BATS:VNM",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isMarketTheme": true
+    },
+    {
+      "jitta_stock_id": 2577965,
+      "id": "NYSE:AWAY",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2573770,
+      "id": "NYSE:VGT",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573862,
+      "id": "NYSE:XLK",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572561,
+      "id": "NYSE:FDN",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 7546,
+      "id": "NASDAQ:SKYY",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 132077,
+      "id": "NASDAQ:CLOU",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572856,
+      "id": "NYSE:IDNA",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2573042,
+      "id": "NYSE:KGRN",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 4572,
+      "id": "NASDAQ:ICLN",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 1920,
+      "id": "NASDAQ:BLCN",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 7634,
+      "id": "NASDAQ:SNSR",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 1232815,
+      "id": "NASDAQ:SMH",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572759,
+      "id": "NYSE:GXC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573867,
+      "id": "NYSE:XLV",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573772,
+      "id": "NYSE:VHT",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 4545,
+      "id": "NASDAQ:IBB",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572878,
+      "id": "NYSE:IHI",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573845,
+      "id": "NYSE:XBI",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 131678,
+      "id": "NASDAQ:GNOM",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573222,
+      "id": "NYSE:PBE",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572126,
+      "id": "NYSE:ARKK",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572127,
+      "id": "NYSE:ARKW",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2583617,
+      "id": "BATS:HELX",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2583618,
+      "id": "BATS:ARKG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2583619,
+      "id": "BATS:ARKQ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573062,
+      "id": "NYSE:KURE",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572416,
+      "id": "NASDAQ:EDOC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2590572,
+      "id": "BATS:WDNA",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 5296,
+      "id": "NASDAQ:AGNG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2583162,
+      "id": "NYSE:METV",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2572765,
+      "id": "NYSE:HACK",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573085,
+      "id": "NYSE:LIT",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2419,
+      "id": "NASDAQ:CIBR",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true,
+      "isThematicOptimize": true
+    },
+    {
+      "jitta_stock_id": 2578293,
+      "id": "NASDAQ:KEJI",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2575267,
+      "id": "NASDAQ:CTEC",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2576272,
+      "id": "NYSE:KFVG",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572238,
+      "id": "NASDAQ:CHB",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572246,
+      "id": "NYSE:CHIK",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 6978,
+      "id": "NYSE:CHIC",
+      "type": "THEMATIC",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572244,
+      "id": "NYSE:CHIH",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2656207,
+      "id": "BATS:INDA",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 8464,
+      "id": "NASDAQ:VCIT",
+      "type": "GLOBAL",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2572430,
+      "id": "NYSE:EFA",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 4598,
+      "id": "NASDAQ:IEF",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2656935,
+      "id": "NASDAQ:BBJP",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 2573726,
+      "id": "NYSE:URTH",
+      "type": "GLOBAL",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 1828,
+      "id": "NASDAQ:BFIT",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2167,
+      "id": "NASDAQ:CARZ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 3905,
+      "id": "NASDAQ:FTXG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 5601,
+      "id": "NASDAQ:MILN",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 7141,
+      "id": "NASDAQ:RING",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 7642,
+      "id": "NASDAQ:SOCL",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 1232810,
+      "id": "NASDAQ:BJK",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2571998,
+      "id": "NASDAQ:EDUT",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572570,
+      "id": "NYSE:FHLC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572628,
+      "id": "NYSE:FNCL",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572654,
+      "id": "NYSE:FTEC",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572661,
+      "id": "NYSE:FUTY",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572858,
+      "id": "NYSE:IDRV",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2572979,
+      "id": "NYSE:JETS",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573028,
+      "id": "NYSE:JXI",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573232,
+      "id": "NYSE:PEJ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573355,
+      "id": "NYSE:REET",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573451,
+      "id": "NYSE:SCHH",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573724,
+      "id": "NYSE:URA",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573739,
+      "id": "NYSE:USSG",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573843,
+      "id": "NYSE:XAR",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573891,
+      "id": "NYSE:XTN",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2575225,
+      "id": "NASDAQ:VPN",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573489,
+      "id": "NYSE:SH",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 7712,
+      "id": "NASDAQ:SQQQ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573282,
+      "id": "NYSE:PSQ",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2573582,
+      "id": "NYSE:SPY",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false,
+      "process": false
+    },
+    {
+      "jitta_stock_id": 2572177,
+      "id": "NYSE:BIL",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2669480,
+      "id": "NASDAQ:SGOV",
+      "type": "CUSTOM",
+      "isSyncGraphCms": false
+    },
+    {
+      "jitta_stock_id": 2671107,
+      "id": "BATS:MOAT",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    },
+    {
+      "jitta_stock_id": 3110,
+      "id": "NASDAQ:DRIV",
+      "type": "THEMATIC",
+      "isSyncGraphCms": true
+    }
+  ]
+}

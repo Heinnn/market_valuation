@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jitta-intel-dev",
+  "private_key_id": "bf2d51598b86d136853658a207761cfcaeb521c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbvD0McCtG3jTL\nH1ecqwfd+RwqS7QMuqgTRK+v320HW/FnUwWoERl2fBu+y4mdTMcamyDEzXPpjJum\n8QWt9gf/YEnsVuFwBy4ReMYatgEuIy44EPlprLisz5zHSmHRLheXvTR2lzFOhDrx\ndHeL3X06JnTsZjvKqGNccS/69jhOcIBb3Gm8ewh6T1PG63hPyM+82MyRG9AI+bmd\nva5Aj1GhWy5JH5GljWGzp6PSK6N5oXsEgWuvPCCaK1rARm9ToiILAvHjJ7mxaxPP\nuFBZWOfeGlC02s0+zEE0hUU10DoMrIAF3SO5KROTLcyKlhoChMLFVs0Cw0Z0fhOz\nLvghCNi1AgMBAAECggEALsP4ESQd2sofUF+5D3LMifukWY8iIjBrCF4347hUJUGW\n3FAyAqYf31SlgEXerT3BDFxJGtAXXqq6kwcNjY+0FxvzFuWADQQa8WQzGRJOiGxI\nFM4EF5emXT569d2AQjB1JTvL5VDBnbJXgOpYe8enMy8ZLWQF0HWAYOIcZmBJyEPH\n/9pXCybAEom8sbkrUlZlzBdsnkrSQgCoQUn/xLNyV43GzAZDjQ++B0QTgaoFyj2O\ngWPzhe+mvEkmvAR1JtYZ+k1q7ASUQS+uGunt5RP1BWz02ycxyNhkdz/HLQopxv3A\nPhSIoDTdPcRxm/cavCeJyYAfbMX7dtmWiXpkGM9igQKBgQDXy9lenE3RSV4zo39v\nK3HMQs158IRtKKOqrN4ynKkXgePddBabTbNdug32WUlgccT8dCs+bRgY1SQippF+\nyKjWXgJfhXSFdNw9BQ8zRO7BZyjBfRT8kUmwCajud05G0KPiLepbr2OD/foFzrL9\n8opJz/IwdsmTlYChy3ihvOx/gwKBgQC4v9nzvmJZ0/z/uqgD/0U3ehSTSAoPCox0\ne6qaqyRdxzemPwLumV6og8Vz9CEFKR5bnJWXsT2sdBEri53SbNtQdSCOSe8kV/re\nJYJJbKNBMPx041LCUPfHfnlKFvILJ4n6uUqGamBxXqZ2zoFo0e0TK2C/wtn0rm4T\nylqVaa9ZZwKBgA9aorm3l1XXyYsVDAEl7y/gZOxTL6jwpkyDhj/Fo8ZXaJYeJ2mf\naq61iT7I9Y6WKbTosxb6/ibuK2cHwPxrXI/8GmEfhr3kJbN1w7IbKn26UE0MEE00\nLTEITuvAs2IYgECckbs6THNcw8hb/6JP+oTr9ch6+za0AXYBmzCu14jvAoGBAJBT\nJ7O3LePYrFMmgOymdW8SSpKH+3umlPTGSw+K1N0BrSKNJQA6Be2FCzI7K7R5W8Lb\nfy1Cg9h9z5ACAKeK7IVdCrK9ZTkyFcOG79HmMV7TItU5ZMRyNi69SYkshadbGvon\n1+VLos3N0CMNzaCSJi8Mewcy88umnE2PjdYc+qPPAoGAOeWR9YXA2W3j5FWA3Sks\n31/jdAt0U9Dxn+kKfeHCyzZcLW2Qe9FRTKrME788hm6e0FzO2c8CfEhdaUucXWtr\n2MExK0y08tQcIpB8pMuUQya2maLlIayGklHlP4E+tTQfdi6EPoU9FLMJZgdJw77r\nJmr5IVwVB9ceFItDPmYvyYk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nonproduct@jitta-intel-dev.iam.gserviceaccount.com",
+  "client_id": "101501558958472274725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nonproduct%40jitta-intel-dev.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

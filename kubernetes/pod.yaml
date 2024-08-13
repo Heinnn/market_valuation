@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: searchweight10-dif5-19themes
+spec:
+  containers:
+    - name: searchweight10-dif5-19themes
+      image: asia.gcr.io/jitta-dev/combination:latest
+      resources:
+        limits:
+          cpu: "1"
+          memory: "20000Mi"
+        requests:
+          cpu: "100m"
+          memory: "20000Mi"
+      command: ["/bin/sh", "-c"]
+      args: [
+          "pipenv run python search_weight_v2.py \
+          --combinationfile permutate-10-dif5.pkl \
+          --theme '19themes.yaml' \
+          --channel '#demo-hi' \
+          --saveto 'result_10_dif5_weight_19themes.csv' ",
+        ]
